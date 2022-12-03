@@ -1,0 +1,9 @@
+.img {
+  width: 50px;
+}
+.box input {
+  border: none;
+  padding-left: 15px;
+  width: 520px;
+  outline: none;
+}
